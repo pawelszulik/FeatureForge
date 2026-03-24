@@ -321,3 +321,5 @@ FeatureForge/
 | Microsoft.TeamFoundationServer.Client | 19.225.2 | Azure DevOps API |
 | Polly | 8.6.5 | Retry + exponential backoff dla TFS |
 | Microsoft.Extensions.* | 10.0.x | DI, konfiguracja, user secrets |
+<img width="1357" height="929" alt="obraz" src="https://github.com/user-attachments/assets/d9ab9426-0a50-45c7-8f2f-12229a4c88f0" />
+
